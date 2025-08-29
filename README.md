@@ -1,1 +1,1 @@
-# cospeechmamba
+# GranuMamba
